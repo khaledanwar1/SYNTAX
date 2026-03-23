@@ -1,0 +1,7 @@
+{
+  "name": "SYNTAX - Rogue AI",
+  "description": "A conversational voice app featuring SYNTAX, a cynical, unhinged, and highly advanced rogue AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
